@@ -1,7 +1,7 @@
 # BurningMan2019
 My code for chip and terra for burning-man 2019
-
-## 1: AIY for the vidual component
+This year ..
+## 1: AIY for the visual component
 
 ## 2: Plain old Pi-3 for audio part
 
